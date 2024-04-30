@@ -1,0 +1,24 @@
+.label,
+.input,
+.btn {
+    padding: 3px;
+    margin: 5px;
+
+}
+
+.form {
+    border: 2px solid black;
+    background: #a590907a;
+    width: 30%;
+    margin: auto;
+    padding: 10px;
+}
+
+.box {
+    border: 2px solid black;
+    background: #c443437a;
+    width: 30%;
+    margin: auto;
+    padding: 10px;
+
+}

@@ -1,0 +1,8 @@
+* {
+    text-align: center;
+    background: rgba(208, 200, 200, 0.541);
+}
+
+h1 {
+    border: 2px dashed black;
+}
